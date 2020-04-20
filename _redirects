@@ -1,1 +1,5 @@
-/ /html/index.html 200
+/ /html/index.html 404
+/index.html /html/index.html
+/about.html /html/about.html
+/contact.html /html/contact.html
+/references.html /html/references.html
