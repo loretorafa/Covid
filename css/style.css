@@ -1,0 +1,18 @@
+header{
+    display: flex;
+    justify-content: center;
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+}
+
+nav li{
+    display: inline;
+}
+
+#content{
+    display: flex;
+    justify-content: center;
+}
